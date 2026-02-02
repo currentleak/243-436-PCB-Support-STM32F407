@@ -1,11 +1,11 @@
 Altium Designer Pick and Place Locations
-C:\Users\kevin.cotton\OneDrive - Cégep Limoilou\_Cours-TGE\243-436 - Developpement de produits 4 - Dessins et Certifications\kit\243-436-PCB-Support-STM32F407\.\Generate Files\Pick Place\243-436_PCB-Support-STM32F407.csv
+C:\Users\kevin.cotton\OneDrive - Cégep Limoilou\_Cours-TGE\243-436-Dev-Prod4-Certifications\kit\243-436-PCB-Support-STM32F407\.\Generate Files\Pick Place\243-436_PCB-Support-STM32F407.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       05-01-26
-Time:       20:30
+Date:       25-01-26
+Time:       13:58
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
@@ -77,7 +77,6 @@ Units used: mm
 "MIKROBUSA","MIKROBUS HOST CONN.","TopLayer","MIKROBUS_HOST_CONN._TH","172.0000","89.0000","0","mikroBUS Host Socket"
 "MIKROBUSB","MIKROBUS HOST CONN.","TopLayer","MIKROBUS_HOST_CONN._TH","132.0000","89.0000","0","mikroBUS Host Socket"
 "P1","PPTC061LGBN-RC","TopLayer","P_CONN_HDR_1ROW_6POS_RA_100MIL","62.1500","27.9400","180","CONN SOCKET 6pos 100mils Right Angle"
-"R9","Res 0R 0402","TopLayer","R_1005[0402]","62.5000","32.5000","180","Resistor type 1"
 "R11","Res 0R 0402","TopLayer","R_1005[0402]","26.0000","62.5000","0","Resistor type 1"
 "R10","Res 0R 0402","TopLayer","R_1005[0402]","74.5000","37.2500","0","Resistor type 1"
 "R8","Res 0R 0402","TopLayer","R_1005[0402]","65.1700","33.9600","0","Resistor type 1"
@@ -88,6 +87,7 @@ Units used: mm
 "R3","Res 0R 0402","TopLayer","R_1005[0402]","152.5000","92.5000","180","Resistor type 1"
 "R2","Res 0R 0402","TopLayer","R_1005[0402]","150.0000","91.0000","0","Resistor type 1"
 "R1","Res 0R 0402","TopLayer","R_1005[0402]","150.0000","92.5000","0","Resistor type 1"
+"R21","Res 10k 1% 0402","TopLayer","R_1005[0402]","66.5000","31.7000","90","Resistor type 1"
 "R15","Res 10k 1% 0402","TopLayer","R_1005[0402]","152.0000","12.7500","90","Resistor type 1"
 "R19","Res 10k 1% 0402","TopLayer","R_1005[0402]","20.0000","65.5000","270","Resistor type 1"
 "R20","Res 120R 1206","TopLayer","R_3216[1206]","18.8250","53.9750","0","Resistor type 1"
@@ -95,6 +95,7 @@ Units used: mm
 "R18","Res 49k9 1% 0402","TopLayer","R_1005[0402]","156.7500","14.0000","270","Resistor type 1"
 "R17","Res 49k9 1% 0402","TopLayer","R_1005[0402]","155.2500","14.0000","90","Resistor type 1"
 "R14","Res 4k7 1% 0402","TopLayer","R_1005[0402]","30.7500","13.0000","0","Resistor type 1"
+"R9","Res 5k1 1% 0402","TopLayer","R_1005[0402]","62.5000","32.5000","180","Resistor type 1"
 "R13","Res 5k1 1% 0402","TopLayer","R_1005[0402]","19.5000","14.7500","270","Resistor type 1"
 "R12","Res 5k1 1% 0402","TopLayer","R_1005[0402]","18.0000","14.7500","270","Resistor type 1"
 "U6","SN65HVD230DR","TopLayer","SOIC-8","16.1700","67.1660","270","IC TRANSCEIVER HALF 1/1 8SOIC"
