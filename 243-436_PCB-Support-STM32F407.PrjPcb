@@ -259,6 +259,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OFCKBNQD
 
 [Document13]
+DocumentPath=Alimentation.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BLUNMBSU
+
+[Document14]
 DocumentPath=Affichage-LCD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
